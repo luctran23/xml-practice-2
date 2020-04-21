@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tobao.xsl"?>
+
+
+<tobao
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='tobao.xsd'>
+    <baibao mabaibao="1">
+        <tieude>mi dang khong che dich covid rat chi la ok</tieude>
+        <noidung>mi dang khong che dich covid rat chi la ok</noidung>
+        <tacgia>
+            <hoten>donaldtrump</hoten>
+            <tuoi>79</tuoi>
+            <email>donaldtrump@gmail.com</email>
+        </tacgia>
+        <ngaydang>2020-01-01</ngaydang>
+        <loaibaibao>van hoa</loaibaibao>
+    </baibao>
+    <baibao mabaibao="2">
+        <tieude>dich covid 19 dang duoc kiem soat tot o tren the gioi</tieude>
+        <noidung>dich covid 19 dang duoc kiem soat tot o tren the gioi</noidung>
+        <tacgia>
+            <hoten>tran van tom</hoten>
+            <tuoi>20</tuoi>
+            <email>tom@gmail.com</email>
+        </tacgia>
+        <ngaydang>2021-01-01</ngaydang>
+        <loaibaibao>van hoa</loaibaibao>
+    </baibao>
+    <baibao mabaibao="3">
+        <tieude>dich covid 19 dang duoc kiem soat tot o tren the gioi</tieude>
+        <noidung>dich covid 19 dang duoc kiem soat tot o tren the gioi</noidung>
+        <tacgia>
+            <hoten>cua</hoten>
+            <tuoi>21</tuoi>
+            <email>tomcuja@gmail.com</email>
+        </tacgia>
+        <ngaydang>2023-02-02</ngaydang>
+        <loaibaibao>xa hoi</loaibaibao>
+    </baibao>
+
+</tobao>
